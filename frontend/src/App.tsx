@@ -6,7 +6,7 @@ const BasketballDataSample = basketballData.teams;
 
 //tell user what the site is showing 
 function Header() {
-  return <h1> March MadnessC ollege Basketball Teams</h1>;
+  return <h1> March Madness College Basketball Teams</h1>;
 }
 
 //school function: creates a single school 
