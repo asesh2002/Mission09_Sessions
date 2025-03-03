@@ -22,8 +22,8 @@ function School({
   return (
     <>
       <h2>School: {name}</h2>
-      <h3>Mascot Name: {mascot}</h3>
-      <h3>Location: {location}</h3>
+      <h5>Mascot Name: {mascot}</h5>
+      <h5>Location: {location}</h5>
     </>
   );
 }
